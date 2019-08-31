@@ -1,0 +1,33 @@
+{
+  "LATEST": {
+    "host": "localhost",
+    "port": "27017",
+    "database": "test",
+    "token" : "5CD4ED173E1C95FE763B753A297D5"
+  },
+  "PROD": {
+    "host": "localhost",
+    "port": "27017",
+    "database": "test",
+    "token" : "5CD4ED173E1C95FE763B753A297D5"
+  },
+  "TEST": {
+    "host": "localhost",
+    "port": "27017",
+    "database": "test",
+    "token" : "5CD4ED173E1C95FE763B753A297D5"
+
+  },
+  "DEV": {
+    "host": "localhost",
+    "port": "27017",
+    "database": "test",
+    "token" : "5CD4ED173E1C95FE763B753A297D5"
+  },
+  "LOCAL": {
+    "host": "localhost",
+    "port": "27017",
+    "database": "test",
+    "token" : "5CD4ED173E1C95FE763B753A297D5"
+  }
+}
